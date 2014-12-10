@@ -1,5 +1,7 @@
 platform:
   - x64
 
+build: off
+
 deploy_script:
   - release.bat
